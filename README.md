@@ -241,3 +241,4 @@ It's important to note the difference between changes in state and changes in pr
 - [Component API](https://facebook.github.io/react/docs/component-api.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-updating-state'>Updating State</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Updating State</p>
